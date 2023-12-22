@@ -9,4 +9,6 @@ Salient Css Property :
    text-transform: uppercase;
    mix-blend-mode: difference;
 
+   Check this out.
+
 ![ScreenShot](https://github.com/AmarjitSinghCodeHub/TextWithBackgroundAnimatedImage/assets/26737318/e5c5f590-d23f-4dda-8bd7-6dfb691ce954)
